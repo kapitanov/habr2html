@@ -1,0 +1,10 @@
+.idea
+/habr2html
+/habr2html.exe
+/cmd/habr2html/habr2html
+/cmd/habr2html/habr2html.exe
+**/*.epub
+/out
+/cache
+*.sh
+*.md
